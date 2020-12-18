@@ -16,6 +16,7 @@
   .activeItem {
     display: flex;
     align-items: center;
+      color: red;
   }
   
   .activeContainer img {
